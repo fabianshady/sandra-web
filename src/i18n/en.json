@@ -1,0 +1,125 @@
+{
+  "home": {
+    "name": "Sandra Araujo Mendoza",
+    "title": "Bilingual Systemic Consultant",
+    "intro": "Passionate about human behavior and relationships. With over 15 years of experience, I help individuals, families, couples, and companies achieve meaningful transformation.",
+    "cta": "Book a Session",
+    "learnMore": "Learn more about me →",
+    "gallery1": "\"I believe in the power of empathy and active listening.\"",
+    "gallery2": "\"Transformation happens when we feel seen and supported.\"",
+    "servicesTitle": "How I Can Help You",
+    "services": {
+      "individual": "Individual Consulting",
+      "family": "Family Consulting",
+      "couples": "Couples Consulting",
+      "group": "Group Workshops",
+      "viewAll": "View All Services"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About Sandra",
+    "intro": "Passionate about understanding human behavior and social relationships. Over 15 years of experience helping people transform their lives through systemic consulting.",
+    "journey": "My Journey",
+    "move": {
+      "title": "From Mexico to the U.S.",
+      "text": "In 2018, I made the boldest decision of my life: leaving my country, my family and career behind to start anew in the U.S. It was challenging, but deeply transformative."
+    },
+    "growth": {
+      "title": "Becoming a Stronger Professional",
+      "text": "Facing emotional and mental chaos helped me grow into a more empathetic and resilient consultant, able to connect with clients from diverse backgrounds."
+    },
+    "beliefs": "What I Believe In",
+    "beliefList": [
+      "I honor my roots and I am the result of my story.",
+      "Say yes, then figure out how.",
+      "You have to be your own cheerleader.",
+      "Those who aren’t willing to lose don’t win.",
+      "Play is our most powerful tool.",
+      "Citizen and explorer of the world."
+    ],
+    "values": "Values",
+    "mission": "Mission",
+    "vision": "Vision",
+    "valuesText": "Autonomy, community, commitment, clarity, empathy, professionalism.",
+    "missionText": "To promote holistic well-being and guide individuals and organizations toward conscious, empowered living.",
+    "visionText": "To be a trusted source of transformation for people around the world—helping them live with clarity and purpose."
+  },
+  "services": {
+    "title": "My Services",
+    "online": "Online Services",
+    "inPerson": "In-Person Services",
+    "labels": {
+      "online": "Online",
+      "inPerson": "In-Person"
+    },
+    "cards": {
+      "individual": {
+        "title": "Individual Consulting",
+        "desc": "Personalized sessions focused on emotional well-being, clarity, and personal growth."
+      },
+      "family": {
+        "title": "Family Consulting",
+        "desc": "Support for families facing parenting challenges, communication issues, and relational conflict."
+      },
+      "couples": {
+        "title": "Couples Consulting",
+        "desc": "Empathetic guidance to strengthen connection, resolve conflict, and build healthier relationships."
+      },
+      "group": {
+        "title": "Group Workshops",
+        "desc": "Reflective and growth-focused group sessions designed to enhance emotional intelligence and social skills."
+      },
+      "business": {
+        "title": "Business Consulting",
+        "desc": "Workshops and strategies for teams to improve communication, productivity, and collaboration."
+      }
+    },
+    "cta": "Let's Work Together"
+  },
+  "contact": {
+    "title": "Book a Session",
+    "subtitle": "Let's connect. Fill out the form or reach me directly—I'm here to support you.",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "languages": "Languages",
+      "languageList": "English & Spanish"
+    },
+    "faq": {
+      "title": "FAQ",
+      "questions": [
+        {
+          "q": "Why virtual therapy?",
+          "a": "Virtual sessions allow you to receive support without disrupting your daily routine. It's a convenient and efficient way to prioritize your mental and relational health."
+        },
+        {
+          "q": "Who is this for?",
+          "a": "Ideal for people with busy schedules or those living abroad. Sessions are designed for individuals, families, and couples looking for professional guidance in both English and Spanish."
+        },
+        {
+          "q": "How can this help my company?",
+          "a": "Group workshops and business consulting can improve communication, reduce conflict, and foster a more collaborative and productive work environment."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "quickLinks": "Quick Links",
+    "follow": "Follow Me",
+    "rights": "All rights reserved."
+  }
+}

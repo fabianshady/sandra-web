@@ -1,0 +1,125 @@
+{
+  "home": {
+    "name": "Sandra Araujo Mendoza",
+    "title": "Consultora Sistémica Bilingüe",
+    "intro": "Apasionada por el comportamiento humano y las relaciones. Con más de 15 años de experiencia, ayudo a individuos, familias, parejas y empresas a lograr una transformación significativa.",
+    "cta": "Agenda una cita",
+    "learnMore": "Conoce más sobre mí →",
+    "gallery1": "\"Creo en el poder de la empatía y la escucha activa.\"",
+    "gallery2": "\"La transformación sucede cuando nos sentimos vistos y acompañados.\"",
+    "servicesTitle": "¿Cómo puedo ayudarte?",
+    "services": {
+      "individual": "Consulta Individual",
+      "family": "Consulta Familiar",
+      "couples": "Consulta de Pareja",
+      "group": "Talleres Grupales",
+      "viewAll": "Ver todos los servicios"
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "about": {
+    "title": "Acerca de Sandra",
+    "intro": "Apasionada por comprender el comportamiento humano y las relaciones sociales. Más de 15 años ayudando a personas a transformar sus vidas mediante consultoría sistémica.",
+    "journey": "Mi Trayectoria",
+    "move": {
+      "title": "De México a EE.UU.",
+      "text": "En 2018 tomé la decisión más valiente de mi vida: dejar mi país, mi familia y carrera para empezar de nuevo en EE.UU. Fue un reto profundo y transformador."
+    },
+    "growth": {
+      "title": "Fortaleciéndome como profesional",
+      "text": "Afrontar el caos emocional y mental me ayudó a crecer como consultora más empática y resiliente, capaz de conectar con personas de distintos contextos."
+    },
+    "beliefs": "En lo que creo",
+    "beliefList": [
+      "Heredo mis raíces y soy resultado de mi historia.",
+      "Di que sí, luego aprende cómo.",
+      "Tienes que ser tu propia porrista.",
+      "Quien no arriesga, no gana.",
+      "El juego es nuestra herramienta más poderosa.",
+      "Ciudadana y exploradora del mundo."
+    ],
+    "values": "Valores",
+    "mission": "Misión",
+    "vision": "Visión",
+    "valuesText": "Autonomía, comunidad, compromiso, claridad, empatía, profesionalismo.",
+    "missionText": "Promover el bienestar integral y guiar a personas y organizaciones hacia una vida consciente y empoderada.",
+    "visionText": "Ser una fuente confiable de transformación ayudando a otros a vivir con claridad y propósito."
+  },
+  "services": {
+    "title": "Mis Servicios",
+    "online": "Servicios en Línea",
+    "inPerson": "Servicios Presenciales",
+    "labels": {
+      "online": "En línea",
+      "inPerson": "Presencial"
+    },
+    "cards": {
+      "individual": {
+        "title": "Consulta Individual",
+        "desc": "Sesiones personalizadas enfocadas en el bienestar emocional, la claridad y el crecimiento personal."
+      },
+      "family": {
+        "title": "Consulta Familiar",
+        "desc": "Apoyo para familias con desafíos de crianza, comunicación y conflicto relacional."
+      },
+      "couples": {
+        "title": "Consulta de Pareja",
+        "desc": "Guía empática para fortalecer la conexión, resolver conflictos y construir relaciones más sanas."
+      },
+      "group": {
+        "title": "Talleres Grupales",
+        "desc": "Sesiones grupales reflexivas y enfocadas en el crecimiento para desarrollar habilidades sociales y emocionales."
+      },
+      "business": {
+        "title": "Consultoría Empresarial",
+        "desc": "Talleres y estrategias para mejorar la comunicación, productividad y colaboración en equipos."
+      }
+    },
+    "cta": "Trabajemos Juntos"
+  },
+  "contact": {
+    "title": "Agenda una Cita",
+    "subtitle": "Conectemos. Llena el formulario o contáctame directamente—estoy aquí para acompañarte.",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Tu Correo",
+      "subject": "Asunto",
+      "message": "Tu Mensaje",
+      "send": "Enviar Mensaje"
+    },
+    "info": {
+      "email": "Correo",
+      "phone": "Teléfono",
+      "languages": "Idiomas",
+      "languageList": "Español e Inglés"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "questions": [
+        {
+          "q": "¿Por qué terapia virtual?",
+          "a": "Las sesiones virtuales te permiten recibir apoyo sin interrumpir tu rutina diaria. Es una forma conveniente y eficaz de priorizar tu salud mental y relacional."
+        },
+        {
+          "q": "¿Para quién es esto?",
+          "a": "Ideal para personas con agendas ocupadas o que viven en el extranjero. Las sesiones están diseñadas para individuos, familias y parejas que buscan orientación profesional en español o inglés."
+        },
+        {
+          "q": "¿Cómo puede ayudar a mi empresa?",
+          "a": "Los talleres grupales y la consultoría empresarial pueden mejorar la comunicación, reducir el conflicto y fomentar un ambiente laboral más colaborativo y productivo."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "contact": "Contacto",
+    "quickLinks": "Enlaces Rápidos",
+    "follow": "Sígueme",
+    "rights": "Todos los derechos reservados."
+  }
+}
