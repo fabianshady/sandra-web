@@ -5,11 +5,13 @@ import Services from './pages/Services';
 import Contact from './pages/Contact';
 import Layout from './components/Layout';
 import ScrollToTop from './components/ScrollToTop';
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
     <BrowserRouter>
       <Layout>
+        <Analytics />
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
