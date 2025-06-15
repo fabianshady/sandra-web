@@ -1,7 +1,7 @@
 {
   "home": {
     "name": "Sandra Araujo Mendoza",
-    "title": "Consultora Sistémica Bilingüe",
+    "title": "Coach de Vida Sistémica Bilingüe",
     "intro": "Apasionada por el comportamiento humano y las relaciones. Con más de 15 años de experiencia, ayudo a individuos, familias, parejas y empresas a lograr una transformación significativa.",
     "cta": "Agenda una cita",
     "learnMore": "Conoce más sobre mí →",
@@ -9,12 +9,14 @@
     "gallery2": "\"La transformación sucede cuando nos sentimos vistos y acompañados.\"",
     "servicesTitle": "¿Cómo puedo ayudarte?",
     "services": {
-      "individual": "Consulta Individual",
-      "family": "Consulta Familiar",
-      "couples": "Consulta de Pareja",
+      "individual": "Coaching Individual",
+      "family": "Coaching Familiar",
+      "couples": "Coaching de Pareja",
       "group": "Talleres Grupales",
       "viewAll": "Ver todos los servicios"
-    }
+    },
+    "upcomingEventsTitle": "Próximos Eventos",
+    "upcomingEventsText": "Emocionantes eventos próximamente, ¡mantente atento!"
   },
   "nav": {
     "home": "Inicio",
@@ -24,25 +26,19 @@
   },
   "about": {
     "title": "Acerca de Sandra",
-    "intro": "Apasionada por comprender el comportamiento humano y las relaciones sociales. Más de 15 años ayudando a personas a transformar sus vidas mediante consultoría sistémica.",
+    "intro": "Con más de 15 años de experiencia apoyando a familias, siento una profunda pasión por comprender el comportamiento humano y la dinámica de las relaciones sociales. Mi trabajo se basa en ayudar a las personas y familias a transformar sus vidas y fomentar conexiones más saludables y significativas.",
     "journey": "Mi Trayectoria",
     "move": {
       "title": "De México a EE.UU.",
-      "text": "En 2018 tomé la decisión más valiente de mi vida: dejar mi país, mi familia y carrera para empezar de nuevo en EE.UU. Fue un reto profundo y transformador."
+      "text": "Originaria de México, tomé la decisión más valiente de mi vida en 2018: dejar atrás mi hogar, mi familia y una carrera ya establecida para comenzar de nuevo en Estados Unidos. El camino fue desafiante, pero profundamente transformador, moldeando mi perspectiva y fortaleciendo mi compromiso con el crecimiento personal y el servicio."
     },
     "growth": {
       "title": "Fortaleciéndome como profesional",
-      "text": "Afrontar el caos emocional y mental me ayudó a crecer como consultora más empática y resiliente, capaz de conectar con personas de distintos contextos."
+      "text": "Agradecida tanto por los desafíos personales como por las experiencias profesionales, me he convertido en una coach más empática y resiliente. Estas vivencias han enriquecido mi capacidad para conectar con clientes de diversos orígenes y acompañarlos con autenticidad y comprensión."
     },
-    "beliefs": "En lo que creo",
-    "beliefList": [
-      "Heredo mis raíces y soy resultado de mi historia.",
-      "Di que sí, luego aprende cómo.",
-      "Tienes que ser tu propia porrista.",
-      "Quien no arriesga, no gana.",
-      "El juego es nuestra herramienta más poderosa.",
-      "Ciudadana y exploradora del mundo."
-    ],
+    "beliefsTitle": "En lo que Creo",
+    "beliefQuote": "La vida no es lo que se supone que debe ser. Es lo que es. La forma en que la afrontas es lo que marca la diferencia",
+    "beliefAuthor": "Virginia Satir",
     "values": "Valores",
     "mission": "Misión",
     "vision": "Visión",
@@ -60,15 +56,15 @@
     },
     "cards": {
       "individual": {
-        "title": "Consulta Individual",
+        "title": "Coaching Individual",
         "desc": "Sesiones personalizadas enfocadas en el bienestar emocional, la claridad y el crecimiento personal."
       },
       "family": {
-        "title": "Consulta Familiar",
+        "title": "Coaching Familiar",
         "desc": "Apoyo para familias con desafíos de crianza, comunicación y conflicto relacional."
       },
       "couples": {
-        "title": "Consulta de Pareja",
+        "title": "Coaching de Pareja",
         "desc": "Guía empática para fortalecer la conexión, resolver conflictos y construir relaciones más sanas."
       },
       "group": {
@@ -76,7 +72,7 @@
         "desc": "Sesiones grupales reflexivas y enfocadas en el crecimiento para desarrollar habilidades sociales y emocionales."
       },
       "business": {
-        "title": "Consultoría Empresarial",
+        "title": "Coaching Empresarial",
         "desc": "Talleres y estrategias para mejorar la comunicación, productividad y colaboración en equipos."
       }
     },
@@ -111,7 +107,7 @@
         },
         {
           "q": "¿Cómo puede ayudar a mi empresa?",
-          "a": "Los talleres grupales y la consultoría empresarial pueden mejorar la comunicación, reducir el conflicto y fomentar un ambiente laboral más colaborativo y productivo."
+          "a": "Los talleres grupales y el coaching empresarial pueden mejorar la comunicación, reducir el conflicto y fomentar un ambiente laboral más colaborativo y productivo."
         }
       ]
     }

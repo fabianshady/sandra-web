@@ -38,22 +38,23 @@ export default function Home() {
                 </div>
             </section>
 
-            <section className="grid md:grid-cols-2 gap-6 animate-fadeUp">
-                <div className="space-y-4 text-center">
-                    <img
-                        src="/images/sandra4.jpg"
-                        alt="Sandra during a session"
-                        className="rounded-lg shadow-md w-full object-cover"
-                    />
-                    <p className="italic text-verde-dark">{t('home.gallery1')}</p>
-                </div>
-                <div className="space-y-4 text-center">
-                    <img
-                        src="/images/sandra5.jpg"
-                        alt="Sandra in a workshop"
-                        className="rounded-lg shadow-md w-full object-cover"
-                    />
-                    <p className="italic text-verde-dark">{t('home.gallery2')}</p>
+            <section className="bg-crema rounded-xl shadow-lg p-8 space-y-4 animate-fadeUp text-center">
+                <h2 className="text-3xl font-semibold text-lavanda-dark">{t('home.upcomingEventsTitle')}</h2>
+                <p className="text-verde-dark text-lg">{t('home.upcomingEventsText')}</p>
+            </section>
+
+            <section className="py-12 animate-fadeUp">
+                <div className="container mx-auto px-4">
+                    <div className="grid md:grid-cols-2 gap-8 items-center">
+                        <div className="bg-white rounded-lg shadow-xl p-8 transform hover:scale-105 transition-transform duration-300">
+                            <h3 className="text-2xl font-bold text-lavanda-dark mb-4 text-center">{t('about.mission')}</h3>
+                            <p className="text-verde-dark text-lg text-center">{t('about.missionText')}</p>
+                        </div>
+                        <div className="bg-white rounded-lg shadow-xl p-8 transform hover:scale-105 transition-transform duration-300">
+                            <h3 className="text-2xl font-bold text-lavanda-dark mb-4 text-center">{t('about.vision')}</h3>
+                            <p className="text-verde-dark text-lg text-center">{t('about.visionText')}</p>
+                        </div>
+                    </div>
                 </div>
             </section>
 

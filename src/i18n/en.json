@@ -1,7 +1,7 @@
 {
   "home": {
     "name": "Sandra Araujo Mendoza",
-    "title": "Bilingual Systemic Consultant",
+    "title": "Bilingual Systemic Life Coach",
     "intro": "Passionate about human behavior and relationships. With over 15 years of experience, I help individuals, families, couples, and companies achieve meaningful transformation.",
     "cta": "Book a Session",
     "learnMore": "Learn more about me →",
@@ -9,12 +9,14 @@
     "gallery2": "\"Transformation happens when we feel seen and supported.\"",
     "servicesTitle": "How I Can Help You",
     "services": {
-      "individual": "Individual Consulting",
-      "family": "Family Consulting",
-      "couples": "Couples Consulting",
+      "individual": "Individual Coaching",
+      "family": "Family Coaching",
+      "couples": "Couples Coaching",
       "group": "Group Workshops",
       "viewAll": "View All Services"
-    }
+    },
+    "upcomingEventsTitle": "Upcoming Events",
+    "upcomingEventsText": "Exciting events coming soon, stay tuned!"
   },
   "nav": {
     "home": "Home",
@@ -24,25 +26,19 @@
   },
   "about": {
     "title": "About Sandra",
-    "intro": "Passionate about understanding human behavior and social relationships. Over 15 years of experience helping people transform their lives through systemic consulting.",
+    "intro": "With over 15 years of experience supporting families, I am deeply passionate about understanding human behavior and the dynamics of social relationships. My work is rooted in helping individuals and families transform their lives and foster healthier, more meaningful connections.",
     "journey": "My Journey",
     "move": {
       "title": "From Mexico to the U.S.",
-      "text": "In 2018, I made the boldest decision of my life: leaving my country, my family and career behind to start anew in the U.S. It was challenging, but deeply transformative."
+      "text": "Originally from Mexico, I made the boldest decision of my life in 2018: leaving behind my home, family, and established career to start anew in the United States. The journey was challenging, but profoundly transformative, shaping my perspective and strengthening my commitment to personal growth and service."
     },
     "growth": {
       "title": "Becoming a Stronger Professional",
-      "text": "Facing emotional and mental chaos helped me grow into a more empathetic and resilient consultant, able to connect with clients from diverse backgrounds."
+      "text": "Grateful for both personal challenges and professional experiences, I've grown into a more empathetic and resilient coach. These experiences have deepened my ability to connect with clients from diverse backgrounds and support them with authenticity and understanding."
     },
-    "beliefs": "What I Believe In",
-    "beliefList": [
-      "I honor my roots and I am the result of my story.",
-      "Say yes, then figure out how.",
-      "You have to be your own cheerleader.",
-      "Those who aren’t willing to lose don’t win.",
-      "Play is our most powerful tool.",
-      "Citizen and explorer of the world."
-    ],
+    "beliefsTitle": "What I Believe In",
+    "beliefQuote": "Life is not what it's supposed to be. It's what it is. The way you cope with it is what makes the difference",
+    "beliefAuthor": "Virginia Satir",
     "values": "Values",
     "mission": "Mission",
     "vision": "Vision",
@@ -60,15 +56,15 @@
     },
     "cards": {
       "individual": {
-        "title": "Individual Consulting",
+        "title": "Individual Coaching",
         "desc": "Personalized sessions focused on emotional well-being, clarity, and personal growth."
       },
       "family": {
-        "title": "Family Consulting",
+        "title": "Family Coaching",
         "desc": "Support for families facing parenting challenges, communication issues, and relational conflict."
       },
       "couples": {
-        "title": "Couples Consulting",
+        "title": "Couples Coaching",
         "desc": "Empathetic guidance to strengthen connection, resolve conflict, and build healthier relationships."
       },
       "group": {
@@ -76,7 +72,7 @@
         "desc": "Reflective and growth-focused group sessions designed to enhance emotional intelligence and social skills."
       },
       "business": {
-        "title": "Business Consulting",
+        "title": "Business Coaching",
         "desc": "Workshops and strategies for teams to improve communication, productivity, and collaboration."
       }
     },
@@ -111,7 +107,7 @@
         },
         {
           "q": "How can this help my company?",
-          "a": "Group workshops and business consulting can improve communication, reduce conflict, and foster a more collaborative and productive work environment."
+          "a": "Group workshops and business coaching can improve communication, reduce conflict, and foster a more collaborative and productive work environment."
         }
       ]
     }

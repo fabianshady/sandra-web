@@ -31,30 +31,12 @@ export default function About() {
                 </div>
             </section>
 
-            <section className="mt-12 animate-fadeUp">
-                <h2 className="text-2xl font-semibold text-lavanda-dark text-center mb-6">{t('about.beliefs')}</h2>
-                <div className="grid md:grid-cols-3 gap-4 text-center text-verde-dark text-sm">
-                    {(t('about.beliefList', { returnObjects: true }) as string[]).map((text: string, i: number) => (
-                        <div key={i} className="bg-verde-light bg-opacity-20 p-4 rounded-lg">
-                            {text}
-                        </div>
-                    ))}
-                </div>
-            </section>
-
-            <section className="mt-12 animate-fadeUp grid md:grid-cols-3 gap-6 text-center text-sm">
-                <div className="bg-white rounded-lg shadow p-6">
-                    <h3 className="font-semibold text-lavanda-dark mb-2">{t('about.values')}</h3>
-                    <p>{t('about.valuesText')}</p>
-                </div>
-                <div className="bg-white rounded-lg shadow p-6">
-                    <h3 className="font-semibold text-lavanda-dark mb-2">{t('about.mission')}</h3>
-                    <p>{t('about.missionText')}</p>
-                </div>
-                <div className="bg-white rounded-lg shadow p-6">
-                    <h3 className="font-semibold text-lavanda-dark mb-2">{t('about.vision')}</h3>
-                    <p>{t('about.visionText')}</p>
-                </div>
+            <section className="mt-12 animate-fadeUp text-center">
+                
+                <blockquote className="text-2xl italic text-verde-dark max-w-3xl mx-auto p-8 bg-crema rounded-lg shadow-lg">
+                    "{t('about.beliefQuote')}"
+                    <footer className="mt-4 text-right text-lg text-lavanda-dark">- {t('about.beliefAuthor')}</footer>
+                </blockquote>
             </section>
         </div>
     );
