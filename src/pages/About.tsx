@@ -21,18 +21,16 @@ export default function About() {
                 <h2 className="text-2xl font-semibold text-lavanda-dark text-center">{t('about.journey')}</h2>
                 <div className="grid md:grid-cols-2 gap-6">
                     <div className="bg-white rounded-lg shadow p-4">
-                        <h3 className="font-bold text-verde-dark">{t('about.move.title')}</h3>
                         <p>{t('about.move.text')}</p>
                     </div>
                     <div className="bg-white rounded-lg shadow p-4">
-                        <h3 className="font-bold text-verde-dark">{t('about.growth.title')}</h3>
                         <p>{t('about.growth.text')}</p>
                     </div>
                 </div>
             </section>
 
             <section className="mt-12 animate-fadeUp text-center">
-                
+
                 <blockquote className="text-2xl italic text-verde-dark max-w-3xl mx-auto p-8 bg-crema rounded-lg shadow-lg">
                     "{t('about.beliefQuote')}"
                     <footer className="mt-4 text-right text-lg text-lavanda-dark">- {t('about.beliefAuthor')}</footer>

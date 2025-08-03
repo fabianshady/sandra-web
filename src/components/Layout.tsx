@@ -21,7 +21,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <nav className="sticky top-0 z-50 bg-lavanda-dark text-white py-4 px-6 shadow-md">
         <div className="flex flex-col md:flex-row items-center md:justify-between gap-4">
           <NavLink to="/">
-            <img src="/images/logo2.png" alt="Sandra Logo" className="h-10" />
+            <img src="/images/s_logo.png" alt="Sandra Logo" className="h-10" />
           </NavLink>
           <div className="flex items-center space-x-2 md:space-x-4">
             <NavLink to="/" className={navLinkClass}>{t('nav.home')}</NavLink>
@@ -30,11 +30,11 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <NavLink to="/contact" className={navLinkClass}>{t('nav.contact')}</NavLink>
             <select
               onChange={(e) => i18n.changeLanguage(e.target.value)}
-              value={i18n.language}
+              value={i18n.language.startsWith('es') ? 'es' : 'en'}
               className="bg-white text-lavanda-dark rounded px-2 py-1 text-sm"
             >
-              <option value="en">EN</option>
-              <option value="es">ES</option>
+              <option value="en">EN 🇺🇸</option>
+              <option value="es">ES 🇲🇽</option>
             </select>
           </div>
         </div>
@@ -48,7 +48,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
           <div>
             <h4 className="font-semibold text-base mb-2">{t('footer.contact')}</h4>
-            <p className="flex items-center gap-2"><FaEnvelope /> sandra.systemicmindset@gmail.com</p>
+            <p className="flex items-center gap-2"><FaEnvelope /> sandra@araujomz.com</p>
             <p className="flex items-center gap-2"><FaPhoneAlt /> (818) 660-6186</p>
           </div>
 
@@ -68,10 +68,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               <a href="https://www.instagram.com/sandra.araujo.mdza/" target="_blank" rel="noopener noreferrer" className="hover:text-lavanda-light">
                 <FaInstagram size={20} />
               </a>
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-lavanda-light">
+              <a href="https://www.facebook.com/profile.php?id=61563092142723" target="_blank" rel="noopener noreferrer" className="hover:text-lavanda-light">
                 <FaFacebookF size={20} />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-lavanda-light">
+              <a href="https://www.linkedin.com/in/sandra-araujo-536444193/" target="_blank" rel="noopener noreferrer" className="hover:text-lavanda-light">
                 <FaLinkedinIn size={20} />
               </a>
             </div>

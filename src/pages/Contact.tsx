@@ -13,7 +13,7 @@ export default function Contact() {
             </section>
 
             <form
-                action="https://formsubmit.co/sandra.systemicmindset@gmail.com"
+                action="https://formsubmit.co/sandra@araujomz.com"
                 method="POST"
                 className="grid md:grid-cols-2 gap-4 text-sm"
             >
@@ -54,7 +54,7 @@ export default function Contact() {
 
             <section className="bg-white shadow p-6 rounded-lg text-center space-y-2 text-sm">
                 <p>
-                    <strong>{t('contact.info.email')}:</strong> sandra.systemicmindset@gmail.com
+                    <strong>{t('contact.info.email')}:</strong> sandra@araujomz.com
                 </p>
                 <p>
                     <strong>{t('contact.info.phone')}:</strong> (818) 660-6186
