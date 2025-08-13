@@ -4,7 +4,12 @@ import { useTranslation } from 'react-i18next';
 
 export default function Home() {
     usePageTitle('Home · Sandra Araujo');
-    const { t } = useTranslation();
+    const { t, i18n } = useTranslation();
+
+    const getEventImage = () => {
+        const language = i18n.language;
+        return `/images/events-${language}.jpg`;
+    };
 
     return (
         <div className="space-y-12">
@@ -38,9 +43,12 @@ export default function Home() {
                 </div>
             </section>
 
-            <section className="bg-crema rounded-xl shadow-lg p-8 space-y-4 animate-fadeUp text-center">
-                <h2 className="text-3xl font-semibold text-lavanda-dark">{t('home.upcomingEventsTitle')}</h2>
-                <p className="text-verde-dark text-lg">{t('home.upcomingEventsText')}</p>
+            <section className="bg-crema rounded-xl shadow-lg p-8 space-y-6 animate-fadeUp text-center">
+                <img
+                    src={getEventImage()}
+                    alt={t('home.upcomingEventsTitle')}
+                    className="w-full h-full object-cover"
+                />
             </section>
 
             <section className="py-12 animate-fadeUp">
