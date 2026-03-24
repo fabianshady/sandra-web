@@ -9,7 +9,7 @@ export default function About() {
         <div className="space-y-12">
             <section className="bg-gradient-to-br from-lavanda-light via-crema to-verde-light rounded-lg p-8 shadow-md text-center space-y-4 animate-fadeUp">
                 <img
-                    src="/images/sandra2.jpg"
+                    src="https://ogwdc3ynajjlgs4y.public.blob.vercel-storage.com/sandra2.jpg"
                     alt="Sandra portrait"
                     className="w-36 h-36 mx-auto rounded-full object-cover border-4 border-white shadow"
                 />

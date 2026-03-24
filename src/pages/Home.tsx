@@ -8,7 +8,7 @@ export default function Home() {
 
     const getEventImage = () => {
         const language = i18n.language;
-        return `/images/events-${language}.jpg`;
+        return `https://ogwdc3ynajjlgs4y.public.blob.vercel-storage.com/events-${language}.jpg`;
     };
 
     return (
@@ -17,7 +17,7 @@ export default function Home() {
                 <div className="absolute inset-0 bg-gradient-to-br from-lavanda-light via-crema to-verde-light opacity-30" />
                 <div className="relative z-10 flex flex-col md:flex-row items-center gap-8 p-8">
                     <img
-                        src="/images/sandra.jpg"
+                        src="https://ogwdc3ynajjlgs4y.public.blob.vercel-storage.com/sandra.jpg"
                         alt={t('home.name')}
                         className="w-48 h-48 rounded-full object-cover shadow-md border-4 border-white"
                     />

@@ -21,7 +21,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <nav className="sticky top-0 z-50 bg-lavanda-dark text-white py-4 px-6 shadow-md">
         <div className="flex flex-col md:flex-row items-center md:justify-between gap-4">
           <NavLink to="/">
-            <img src="/images/s_logo.png" alt="Sandra Logo" className="h-10" />
+            <img src="https://ogwdc3ynajjlgs4y.public.blob.vercel-storage.com/s_logo.png" alt="Sandra Logo" className="h-10" />
           </NavLink>
           <div className="flex items-center space-x-2 md:space-x-4">
             <NavLink to="/" className={navLinkClass}>{t('nav.home')}</NavLink>

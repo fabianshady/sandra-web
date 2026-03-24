@@ -14,7 +14,7 @@ export default function Services() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     {['individual', 'family', 'couples'].map((key) => (
                         <div key={key} className="bg-white shadow p-4 rounded-lg flex flex-col items-center text-center transition transform hover:-translate-y-1 hover:shadow-lg">
-                            <img src={`/images/${key}.png`} alt={t(`services.cards.${key}.title`)} className="w-full h-40 object-cover rounded-md mb-4" />
+                            <img src={`https://ogwdc3ynajjlgs4y.public.blob.vercel-storage.com/${key}.png`} alt={t(`services.cards.${key}.title`)} className="w-full h-40 object-cover rounded-md mb-4" />
                             <span className="text-xs bg-lavanda-light text-white px-2 py-1 rounded-full uppercase tracking-wider mb-2">
                                 {t('services.labels.online')}
                             </span>
@@ -30,7 +30,7 @@ export default function Services() {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {['group', 'business'].map((key) => (
                         <div key={key} className="bg-white shadow p-4 rounded-lg flex flex-col items-center text-center transition transform hover:-translate-y-1 hover:shadow-lg">
-                            <img src={`/images/${key}.png`} alt={t(`services.cards.${key}.title`)} className="w-full h-40 object-cover rounded-md mb-4" />
+                            <img src={`https://ogwdc3ynajjlgs4y.public.blob.vercel-storage.com/${key}.png`} alt={t(`services.cards.${key}.title`)} className="w-full h-40 object-cover rounded-md mb-4" />
                             <span className="text-xs bg-lavanda-light text-white px-2 py-1 rounded-full uppercase tracking-wider mb-2">
                                 {t('services.labels.inPerson')}
                             </span>
