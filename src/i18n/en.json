@@ -16,7 +16,41 @@
       "viewAll": "View All Services"
     },
     "upcomingEventsTitle": "Upcoming Events",
-    "upcomingEventsText": "Exciting events coming soon, stay tuned!"
+    "upcomingEventsText": "Exciting events coming soon, stay tuned!",
+    "flyer": {
+      "tag": "Masterclass",
+      "title1": "FROM PAST",
+      "title2": "TO PRESENT",
+      "subtitle": "Transforming couple relationship dynamics with practical tools",
+      "badge": {
+        "top": "Fully",
+        "middle": "ONLINE",
+        "bottom": "May 21st & 28th"
+      },
+      "quote": "Strategies you can use from the very first session",
+      "quote2": "Systemic techniques that truly make a difference",
+      "objectiveTitle": "Objective",
+      "objectiveDesc": "The participant will analyze relational dynamics and apply interventions, focusing on interaction patterns and attachment styles shaping the couple's bond.",
+      "learnTitle": "You will learn",
+      "learn1": "Identifying relational patterns",
+      "learn2": "Attachment styles analysis",
+      "learn3": "Practical techniques",
+      "whoTitle": "Who is it for?",
+      "whoDesc": "Therapists & Mental Health Professionals",
+      "speaker": {
+        "label": "Clinical facilitator",
+        "name": "Alba Gloria Arias Ibáñez",
+        "lang": "Spanish",
+        "desc": "Systemic psychotherapist (+30 years experience)",
+        "bullets": [
+          "Accredited Supervisor by the European and Latin American Network of Systemic Schools (RELATES)",
+          "Co-founder of the Institute Bateson",
+          "Trained by Salvador Minuchin",
+          "TEC Monterrey, DIF, Federal Judiciary of Mexico"
+        ]
+      },
+      "cta": "Book your spot today"
+    }
   },
   "nav": {
     "home": "Home",
