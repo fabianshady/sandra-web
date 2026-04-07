@@ -16,7 +16,41 @@
       "viewAll": "Ver todos los servicios"
     },
     "upcomingEventsTitle": "Próximos Eventos",
-    "upcomingEventsText": "Emocionantes eventos próximamente, ¡mantente atento!"
+    "upcomingEventsText": "Emocionantes eventos próximamente, ¡mantente atento!",
+    "flyer": {
+      "tag": "Masterclass",
+      "title1": "DEL PASADO",
+      "title2": "AL PRESENTE",
+      "subtitle": "Transformando dinámicas de relación en pareja con herramientas prácticas",
+      "badge": {
+        "top": "Totalmente",
+        "middle": "EN LÍNEA",
+        "bottom": "21 y 28 de Mayo"
+      },
+      "quote": "Estrategias que puedes usar desde la primera sesión",
+      "quote2": "Técnicas sistémicas que realmente marcan la diferencia",
+      "objectiveTitle": "Objetivo",
+      "objectiveDesc": "El participante analizará dinámicas relacionales y aplicará intervenciones, centrándose en patrones de interacción y estilos de apego que configuran el vínculo de pareja.",
+      "learnTitle": "Aprenderás",
+      "learn1": "Identificación de patrones relacionales",
+      "learn2": "Análisis de estilos de apego",
+      "learn3": "Técnicas prácticas",
+      "whoTitle": "¿Para quién?",
+      "whoDesc": "Terapeutas y profesionales de la salud mental",
+      "speaker": {
+        "label": "Facilitadora clínica",
+        "name": "Alba Gloria Arias Ibáñez",
+        "lang": "Español",
+        "desc": "Psicoterapeuta sistémica (+30 años de experiencia)",
+        "bullets": [
+          "Supervisora acreditada por la Red Europea y Latinoamericana de Escuelas de la Familia (RELATES)",
+          "Formada por Salvador Minuchin",
+          "Co-fundadora del Instituto Bateson",
+          "TEC Monterrey, DIF, Poder Judicial de la Federación de México"
+        ]
+      },
+      "cta": "Reserva tu lugar hoy"
+    }
   },
   "nav": {
     "home": "Inicio",
