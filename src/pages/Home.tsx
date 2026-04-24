@@ -71,10 +71,12 @@ export default function Home() {
                         </div>
 
                         {/* Circular Badge - typical flyer element */}
-                        <div className="relative z-20 mb-8 lg:mb-12 mx-auto lg:ml-12 w-32 h-32 md:w-40 md:h-40 flex-shrink-0 bg-lavanda-dark rounded-full flex flex-col items-center justify-center p-4 text-center shadow-2xl border-4 border-verde-dark rotate-[-10deg] hover:rotate-0 transition-transform duration-300">
+                        <div className="relative z-20 mb-8 lg:mb-12 mx-auto lg:ml-12 w-40 h-40 md:w-48 md:h-48 flex-shrink-0 bg-lavanda-dark rounded-full flex flex-col items-center justify-center p-6 text-center shadow-2xl border-4 border-verde-dark rotate-[-10deg] hover:rotate-0 transition-transform duration-300">
                             <span className="text-white text-[10px] md:text-xs uppercase tracking-widest font-bold mb-1 opacity-90">{t('home.flyer.badge.top')}</span>
-                            <span className="text-crema font-black text-2xl md:text-3xl leading-none shadow-sm">{t('home.flyer.badge.middle')}</span>
-                            <span className="text-white text-[10px] md:text-xs mt-1 md:mt-2 leading-tight uppercase font-semibold">{t('home.flyer.badge.bottom')}</span>
+                            <span className="text-crema font-black text-2xl md:text-[28px] leading-tight shadow-sm mb-1 uppercase px-1">{t('home.flyer.badge.middle')}</span>
+                            <span className="text-white text-[10px] md:text-[13px] leading-tight uppercase font-semibold mb-1">{t('home.flyer.badge.bottom')}</span>
+                            <div className="border-t border-white/20 w-3/4 my-1.5" />
+                            <span className="text-white text-[9px] md:text-[11px] leading-tight uppercase font-bold opacity-90 tracking-tighter">{t('home.flyer.badge.time')}</span>
                         </div>
                     </div>
 
@@ -164,11 +166,11 @@ export default function Home() {
                         {/* Contact Information tailored for Image Export */}
                         <div className="mt-auto border-t border-verde-light/20 pt-4 flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-left">
                             <div>
-                                <p className="text-[10px] uppercase font-bold tracking-widest text-crema/70 mb-0.5">Inscripciones y Contacto</p>
+                                <p className="text-[10px] uppercase font-bold tracking-widest text-crema/70 mb-0.5">{t('home.flyer.registrationContact')}</p>
                                 <p className="text-sm font-semibold text-white/90">📞 (818) 660-6186 &nbsp;|&nbsp; ✉️ sandra@araujomz.com</p>
                             </div>
                             <div className="text-base font-bold text-verde-light tracking-wide">
-                                www.sandraaraujo.com
+                                sandra.araujomz.com
                             </div>
                         </div>
 
